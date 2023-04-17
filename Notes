@@ -1,0 +1,11 @@
+1. What is Emmet?
+   Emmet uses different abbreviations and short expressions depending on what's passed and then dynamically converts the abbreviations into the full code.(Short hand notations)
+
+2. Difference between a library and framework?
+   A library can be used for small parts of the code to enhance the existing functionality of an application or can be used independently to develop the entire application.
+   A framework is used for building and deploying an application.
+
+3. What is CDN? why do we use it?
+   CDN: Content Delivery Network or Content Distribution Network
+   CDN is a geographically distributed network of proxy servers and their data centers.
+   The goal is to provide high availability and performance by distributing the service spacially relative to end users.
